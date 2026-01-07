@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Скриваме страницата за успех, за да не излиза в резултатите от търсенето
+Disallow: /success.html
+
+# Път към твоята карта на сайта (която ще направим след малко)
+Sitemap: https://solarcleaners.eu/sitemap.xml
